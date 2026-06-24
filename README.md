@@ -16,7 +16,7 @@ After cleaning junk values: 267,184 rows.
 - Top features: city/district, living space, state.
 
 ## Live App
-[Streamlit link — add after deploying]
+(https://german-rent-estimator-xbdwgrjzta7r2rnxpbtupk.streamlit.app/)
 
 ## Demo Video
 [Video link — add after recording]
