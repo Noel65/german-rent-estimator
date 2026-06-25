@@ -7,6 +7,7 @@ Renters and landlords need fair price estimates. This app predicts rent from apa
 
 ## Dataset
 Dataset link : (https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany)
+
 Apartment rental offers in Germany (Kaggle, ImmoScout24) — 268,850 listings.
 After cleaning junk values: 267,184 rows.
 
