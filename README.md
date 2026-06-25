@@ -6,7 +6,7 @@ Predicts monthly base rent (Kaltmiete) for German apartments using machine learn
 Renters and landlords need fair price estimates. This app predicts rent from apartment features.
 
 ## Dataset
-Dataset link : https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany
+Dataset link : (https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany)
 Apartment rental offers in Germany (Kaggle, ImmoScout24) — 268,850 listings.
 After cleaning junk values: 267,184 rows.
 
