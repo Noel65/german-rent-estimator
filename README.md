@@ -21,7 +21,7 @@ After cleaning junk values: 267,184 rows.
 (https://german-rent-estimator-xbdwgrjzta7r2rnxpbtupk.streamlit.app/)
 
 ## Demo Video
-[Video link — add after recording]
+[Video link — [add after recording]](https://drive.google.com/file/d/1n8XVt3KVlFx0MB9x-lFpx_ZokEF0jLyD/view)
 
 ## How to Run
 1. `pip install -r requirements.txt`
